@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tikitalk</string>
+    <string name="hello_welcome_to_tikitalk">Hello! Welcome to tikitalk</string>
+    <string name="choose_one">Choose one</string>
+    <string name="enter_your_phone_number">Enter your Phone number:</string>
+    <string name="enter_here">Enter here</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_here">Enter here</string>
+    <string name="call">CALL</string>
+    <string name="reset">RESET</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message_body">Message Body</string>
+    <string name="compose_an_email">Compose an email</string>
+</resources>
